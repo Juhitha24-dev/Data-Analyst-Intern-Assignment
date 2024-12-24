@@ -1,5 +1,12 @@
 # Data-Analyst-Intern-Assignment
+## Usage
 
+To run this analysis:
+
+1. Clone this repository.
+2. Open `[Data Analyst Intern Assignment].ipynb` in Google Colab. 
+3. Run all cells.
+   
 # **<u>Report: Analysis of User Behavior, Cooking Preferences, and Order Trends</u>**
 
 ## **<u>Introduction</u>** 
